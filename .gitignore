@@ -1,2 +1,5 @@
 *.pyc
 local_settings.py
+Procfile
+*.sqlite3
+__pycache__
